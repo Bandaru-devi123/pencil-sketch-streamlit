@@ -30,3 +30,14 @@ pip install -r requirements.txt
 
 # Step 4: Run the Streamlit app
 streamlit run pencil_sketch_all_in_one.py
+
+
+
+---
+
+## 👩‍💻 Author
+
+**Bandaru Devi**  
+Final Year B.Tech (ECE) | Python & Streamlit Developer  
+📧 Email: bandarudevi947@gmail.com
+
